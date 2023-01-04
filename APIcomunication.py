@@ -179,7 +179,7 @@ def extract():
         if selection in dict_of_nba_teams:
             selected_team_id = selection
             finish = True
-            print(f'Equipo seleccionado: {dict_of_nba_teams[selected_team_id]['name']}')
+            print(f'Equipo seleccionado: {dict_of_nba_teams[selected_team_id]["name"]}')
         else:
             print('ERROR, valor incorrecto')
 
