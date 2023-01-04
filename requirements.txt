@@ -1,0 +1,6 @@
+requests
+bs4
+numpy
+pandas
+plotly
+xhtml2pdf

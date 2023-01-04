@@ -1,0 +1,1 @@
+Es necesario establecer el valor de API_key de la API de sports.io (por defecto estará en None)
